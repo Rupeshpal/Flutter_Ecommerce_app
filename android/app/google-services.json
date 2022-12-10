@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748686466526",
+    "project_id": "birgunj-71626",
+    "storage_bucket": "birgunj-71626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748686466526:android:607050b794dd79c14e914f",
+        "android_client_info": {
+          "package_name": "com.example.fluter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748686466526-oq555np8dlce0qns86o1q069if0a47fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkR8qRloX9zhWQ61xCE1n5yGsTFtprYws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748686466526-oq555np8dlce0qns86o1q069if0a47fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
